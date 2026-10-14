@@ -52,3 +52,6 @@ The initial training run reported a 100% success rate over the final 100 episode
 - Compare Q-Learning and DQN.
 - Add a dashboard for training performance.
 
+## Game Screenshot
+
+![Maze Game](screenshots/maze_game.png)
